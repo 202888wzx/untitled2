@@ -9,6 +9,7 @@ public class Test1 {
         System.out.println("hellow git5");
         System.out.println("hellow master");
         System.out.println("push test");
-        System.out.println("push test2");
+        System.out.println("push test2"); 
+        System.out.println("pull test");
     }
 }
